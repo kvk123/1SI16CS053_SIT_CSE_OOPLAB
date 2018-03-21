@@ -1,0 +1,6 @@
+1. Accessing individual pixels out of a pic and extracting their RGB values. (Matrix Mapping).
+	-Zain
+2. Working of GPS module and everything related to coordinates and navigation.
+	-Vivek
+3. Develop an algorithm to allocate and deaalocate parking slots with as many exceptions addressed as possible.
+	-Rach and Aysh

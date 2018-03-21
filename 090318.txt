@@ -1,0 +1,6 @@
+1. How Google Map works and how to map coordinates on it to navigate.
+	-Vivek
+2. App development
+	-Zain
+3. Algorithm Devloping
+	-Rach And Aysh
